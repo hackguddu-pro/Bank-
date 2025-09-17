@@ -1,3 +1,3 @@
 # Bank-
-Small Bank project
+Small Bank project.
 Author-Bhaktaharinayak
